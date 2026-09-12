@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Wallpaper Switcher"
+  short_description: "Apply and verify a local Codex wallpaper"
+  default_prompt: "Use $codex-wallpaper-switcher to apply the user's supplied image as the Codex Desktop wallpaper and verify it."
