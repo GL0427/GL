@@ -1,0 +1,13 @@
+# Build/test leftovers
+obj/
+bin/
+*.pdb
+self-test.txt
+
+# Local machine credentials and logs
+credential.bin
+service.log
+auto-login.log
+*.old
+
+# Keep the small prebuilt dist package tracked for convenient downloads.
